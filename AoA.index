@@ -5,13 +5,13 @@
 		<description>Index for the Age of Adventurers Westmarch server.</description>
 		<author>LazyLucien</author>
 		<update version="0.1">
-			<file name="AoA.index" url="https://raw.githubusercontent.com/Pogger-chan/Age-of-adventurers-things/main/AoO.index" />
+			<file name="AoA.index" url="https://raw.githubusercontent.com/Pogger-chan/Age-of-adventurers-things/main/AoA.index" />
 		</update>
 	</info>
 	<files>	
-		<file name="source.xml" url="https://raw.githubusercontent.com/Pogger-chan/Age-of-adventurers-things/main/AoO/source.xml" />
+		<file name="source.xml" url="https://raw.githubusercontent.com/Pogger-chan/Age-of-adventurers-things/main/AoA/source.xml" />
 		
 		<!-- classes -->
-		<file name="class-awakened.xml" url="https://raw.githubusercontent.com/Pogger-chan/Age-of-adventurers-things/main/AoO/classes/class-awakened.xml" />
+		<file name="class-awakened.xml" url="https://raw.githubusercontent.com/Pogger-chan/Age-of-adventurers-things/main/AoA/classes/class-awakened.xml" />
 	</files>
 </index>
